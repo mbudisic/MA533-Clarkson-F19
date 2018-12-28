@@ -11,7 +11,11 @@ Say that you have an ODE system to solve in order to generate a cool video as on
 
 OK, so you learn that this is a [Lorenz system](https://en.wikipedia.org/wiki/Lorenz_system) whose equations are
 
-$$\dot x = \sigma(y-x)\,\ \dot y = x(\rho - z) - y,\ \dot z = xy - \beta z$$
+$$\begin{aligned}
+\dot x &= \sigma(y-x)\\
+\dot y &= x(\rho - z) - y \\
+\dot z &= xy - \beta z \\
+\end{aligned}$$
 
 where $$\rho = 28,\ \sigma = 10, \beta = 8/3$$. 
 
