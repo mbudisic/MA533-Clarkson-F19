@@ -13,8 +13,4 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - Vagrantfile
 
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
