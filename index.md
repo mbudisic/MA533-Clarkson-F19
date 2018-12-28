@@ -1,5 +1,6 @@
 ---
-title: 'MA571: Numerical Solutions of Differential Equations'
+title: 'MA571: Numerical Solutions of Differential Equations (Budisic)'
+description: 'Instructor: Marko Budišić (SC391) <a href="mailto:marko@clarkson.edu">marko@clarkson.edu</a>'
 layout: default
 published: true
 ---
@@ -7,9 +8,9 @@ published: true
 **Welcome to MA571!**
 
 Say that you have an ODE system to solve in order to generate a cool video of the [Lorenz system](https://en.wikipedia.org/wiki/Lorenz_system) as on Wikipedia's website.
-![](https://upload.wikimedia.org/wikipedia/commons/1/13/A_Trajectory_Through_Phase_Space_in_a_Lorenz_Attractor.gif){: style="float: right;margin-right: 7px;margin-top: 7px;" width="200px"}
+![](https://upload.wikimedia.org/wikipedia/commons/1/13/A_Trajectory_Through_Phase_Space_in_a_Lorenz_Attractor.gif){: style="float: right;margin-right: 7px;margin-top: 7px;" width="20%"}
 
-OK, so you learn that this is a system  whose equations are
+OK, so you learn that this is an ODE system whose equations are
 
 $$\begin{aligned}
 \dot x &= \sigma(y-x)\\
@@ -19,9 +20,10 @@ $$\begin{aligned}
 
 where $$\rho = 28,\ \sigma = 10, \beta = 8/3$$.
 
+
 Hm, solving those was not covered in your ODE class, but look at that, Wikipedia even has code available. [Let's try it out](https://nbviewer.jupyter.org/github/mbudisic/MA571-Clarkson-S19/blob/gh-pages/materials/wikipedia-lorenz.ipynb)
 
-![./img/wikipedia-lorenz.png]({{site.baseurl}}/img/wikipedia-lorenz.png){:height="300px" style="float: right;margin-right: 7px;margin-top: 7px;"}
+![./img/wikipedia-lorenz.png]({{site.baseurl}}/img/wikipedia-lorenz.png){:width="50%" style="float: right;margin-right: 7px;margin-top: 7px;"}
 ```matlab
 sigma = 10;
 beta = 8/3;
@@ -32,15 +34,11 @@ f = @(t,a) [...
     -beta*a(3) + a(1)*a(2)];
 [t,a] = ode45(f,[0 100],[1 1 1]); % Runge-Kutta 4th/5th order ODE solver
 plot3(a(:,1),a(:,2),a(:,3))
-
 ```
 
- Close enough, but what's up with that jagged edge! Ah, that's right, this is a _numerical approximation_, so perhaps if we reduce the stepsize, we'd get a better result.
+ Close enough, but what's up with that jagged edge! Ah, that's right, this is a _numerical approximation_, so perhaps if we reduce the stepsize, we'd get a better result. How do I do that?  [Let's check help for ode45.](https://octave.sourceforge.io/octave/function/ode45.html)
 
-
- [Let's check help for ode45](https://octave.sourceforge.io/octave/function/ode45.html)
-
-![./img/ode45-help.png]({{site.baseurl}}/img/ode45-help.png)
+![./img/ode45-help.png]({{site.baseurl}}/img/ode45-help.png){:style="border:1px solid" width="75%"}
 
 **What's all of this???? What's Dormand-Prince, what's Runge-Kutta, wait, there's something called adaptive timestep, and I set it using "relative and absolute tolerance"! Tolerance to WHAT.**
 
