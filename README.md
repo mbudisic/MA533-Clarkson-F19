@@ -1,1 +1,1 @@
-# cs207-F17
+Repository for the website for MA571 course at Clarkson.
