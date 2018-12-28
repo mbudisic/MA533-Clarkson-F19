@@ -1,64 +1,23 @@
 ---
-title: "CS 207: Systems Development for Computational Science"
-layout: "default"
+title: 'MA571: Numerical Solutions of Differential Equations'
+layout: default
+published: true
 ---
 
-**Welcome to CS207!**
+**Welcome to MA571!**
 
-It is accpeted that computation has emerged as the third pillar of science alongside the 
-pillars of theory and experiment.  Computational science is maturing rapidly and has found 
-considerable and significant use in supporting scientists from various disciplines (including all 
-engineering disciplines, physics, chemistry, finance, biology, and data analysis to name 
-a few).  Many burgeoning scientists are still taught to write "a code" for some problem 
-and to debug when things look wrong.  Given the ever-increasing complexity of software 
-solutions to scientific problems, this old paradigm is no longer tenable.
+Introductory courses on differential equations typically introduce analytical techniques for obtaining solutions to differential equations. However, most differential equations (especially nonlinear) do not fit any of the solution recipes. 
 
-CS207 is an applications course highlighting the use of software engineering and computer 
-science in solving scientific problems. You will learn the fundamentals of developing 
-scientific software systems including abstract thinking, the handling of data, and 
-assessment of computational approaches: all in the context of good software engineering 
-practices.
+In this course, we will concern ourselves with discretization of differential equations (ODEs and PDEs) --- approximation of differential equations that allow us to "shed" their burden of infinitesimal objects (derivatives, in particular).
 
-## Contact Information
+We will attempt to strike a balance between computational aspects (writing computer programs) and analysis aspects (proving, analyzing, comparing). The main audience for this class are graduate students in mathematics. However, engineers and scientists may also benefit from this content.
 
-**Instructor:** 
+## Basic course info
 
-* *David Sondak*   
-* *Email*:  <dsondak@seas.harvard.edu>
-* *Office*:  Maxwell-Dworkin, G111  
-* *Office Hours*:  
-  * Friday: 11:30 AM - 1:00 PM  
-  * Tuesday: 1:30 PM - 2:30 PM
-
-**TFs:**
-
-|               | **Charles Liu**                                      | **Eric Wu**                                     | **Kevin Wu**                                        |
-| :---:         | :---:                                                | :---:                                           | :---:                                               |
-| *Email*       | <cliu02@g.harvard.edu>                               | <eric_wu@g.harvard.edu>                         | <kevin_wu@g.harvard.edu>                            |
-| *Office*      | IACS Common Space                                    | IACS Common Space                               | IACS Common Space                                   |
-| *Office Hours*| M: 10:00 AM - 11:00 AM <br> W:  10:00 AM - 11:00 AM  | T: 8:00 PM - 9:00 PM <br> Th: 1:00 PM - 2:00 PM | T: 9:00 PM - 10:00 PM <br> Th: 11:00 AM - 12:00 PM   |
-
-
-## Meeting Times
-
-**Lecture Days:**  Monday, Wednesday
-
-**Lecture Time:**  11:30 AM - 1:00 PM
-
-**Room \#:**  Pierce 301
-
-**Lectures are mandatory!**
-
-## Course Websites
-
-* Course GitHub Repo: <https://github.com/IACS-CS-207/cs207-F17/> 
-  * You should clone this repo and update it before each class.
-* Your *private* GitHub Repo: `githubusername/cs207work`
-  * Should contain a HW directory and a labs directory
-* Canvas: <https://canvas.harvard.edu/courses/30141>
-  * Used for course discussions and 
-  * storing your course grade 
-* Main course website:  <https://iacs-cs-207.github.io/cs207-F17/>
-
+* Instructor: Marko Budisic <marko@clarkson.edu>
+* Office: Science Center 391
+* Meeting times: MWF 2pm-2.50pm (attendance is mandatory)
+* Textbook: _Arieh Iserles_, A First Course in the Numerical Analysis of Differential Equations (Cambridge), **2nd Edition** (any format is fine)
+* Homeworks will be assigned and collected on <https://cocalc.com/app> -- no exceptions. You'll have the freedom of working in Python, Julia, or Matlab/Octave. The analytical components will be typeset in either LaTeX or Markdown.
 
 
