@@ -27,11 +27,18 @@ plot3(a(:,1),a(:,2),a(:,3))
 
 ```
 
-Let's try it out.
+[Let's try it out](https://nbviewer.jupyter.org/github/mbudisic/MA571-Clarkson-S19/blob/gh-pages/materials/wikipedia-lorenz.ipynb)
+![wikipedia-lorenz.png]({{site.baseurl}}/wikipedia-lorenz.png)
 
+Close enough, but what's up with that jagged edge! Ah, that's right, this is a _numerical approximation_, so perhaps if we reduce the stepsize, we'd get a better result. Let's check the help:
 
+[help for ode45](https://octave.sourceforge.io/octave/function/ode45.html)
 
-We will attempt to strike a balance between computational aspects (writing computer programs) and analysis aspects (proving, analyzing, comparing). The main audience for this class are graduate students in mathematics. However, engineers and scientists may also benefit from this content.
+What's all of this???? What's Dormand-Prince, what's Runge-Kutta, wait, there's something called adaptive timestep, and I set it using "relative and absolute tolerance"! Tolerance to WHAT. 
+
+**Breathe.** After taking MA571 you'll be able to work through all these things. And more. You'll have a sense of how to integrate Partial Differential Equations, perhaps learn something about Stochastic Differential Equations. Sort out why there are so many options to choose from if you decide to use something instead of `ode45`.
+
+**Our goal** will be to get enough knowledge to make the best choice when solving a specific differential equation, and provide foundation for further study. Sometimes, we'll code things up, just to get our hands dirty, and sometimes we'll do proofs. We'll also read journal articles and present on them, to see how these topics behave in research context.
 
 ## Basic course info
 
