@@ -10,12 +10,9 @@ Say that you have an ODE system to solve in order to generate a cool video as on
 ![](https://upload.wikimedia.org/wikipedia/commons/1/13/A_Trajectory_Through_Phase_Space_in_a_Lorenz_Attractor.gif)
 
 OK, so you learn that this is a [Lorenz system](https://en.wikipedia.org/wiki/Lorenz_system) whose equations are
-$$\begin{aligned}
-\dot x &= \sigma(y-x)\\
-\dot y &= x(\rho - z) - y\\
-\dot z &= xy - \beta z
-\end{aligned}
-$$
+
+$$\dot x = \sigma(y-x)\,\ \dot y = x(\rho - z) - y,\ \dot z = xy - \beta z$$
+
 where $$\rho = 28,\ \sigma = 10, \beta = 8/3$$. 
 
 Hm, solving those was not covered in your ODE class, but look at that, Wikipedia even has code available.
