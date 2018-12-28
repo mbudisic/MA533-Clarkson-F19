@@ -8,8 +8,8 @@
   text-size-adjust: 100%;
   color: #333;
   font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 16px;
-  line-height: 1.6;
+  font-size: 12px;
+  line-height: 1.2;
   word-wrap: break-word;
 }
 
@@ -85,7 +85,7 @@
 }
 
 .markdown-body input {
-  font: 13px / 1.4 Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font: 11px / 1.4 Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 .markdown-body a {
@@ -130,27 +130,27 @@
 }
 
 .markdown-body h1 {
-  font-size: 30px;
+  font-size: 18px;
 }
 
 .markdown-body h2 {
-  font-size: 21px;
-}
-
-.markdown-body h3 {
   font-size: 16px;
 }
 
-.markdown-body h4 {
+.markdown-body h3 {
   font-size: 14px;
 }
 
-.markdown-body h5 {
+.markdown-body h4 {
   font-size: 12px;
 }
 
-.markdown-body h6 {
+.markdown-body h5 {
   font-size: 11px;
+}
+
+.markdown-body h6 {
+  font-size: 10px;
 }
 
 .markdown-body blockquote {
@@ -182,13 +182,13 @@
 
 .markdown-body code {
   font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
-  font-size: 12px;
+  font-size: 11px;
 }
 
 .markdown-body pre {
   margin-top: 0;
   margin-bottom: 0;
-  font: 12px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font: 11px Consolas, "Liberation Mono", Menlo, Courier, monospace;
 }
 
 .markdown-body .select::-ms-expand {
