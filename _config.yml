@@ -14,3 +14,5 @@ exclude:
   - LICENSE
   - README.md
 
+plugins:
+  - jekyll-toc
