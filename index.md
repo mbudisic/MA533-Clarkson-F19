@@ -14,10 +14,10 @@ We will attempt to strike a balance between computational aspects (writing compu
 
 ## Basic course info
 
-* Instructor: Marko Budisic <marko@clarkson.edu>
-* Office: Science Center 391
-* Meeting times: MWF 2pm-2.50pm (attendance is mandatory)
-* Textbook: _Arieh Iserles_, A First Course in the Numerical Analysis of Differential Equations (Cambridge), **2nd Edition** (any format is fine)
+* Instructor: **Marko Budisic** <marko@clarkson.edu>
+* Office: **Science Center 391**
+* Meetings: **MoWeFr 2pm-2.50pm** in **SC342** (attendance is mandatory)
+* Textbook: _Arieh **Iserles_**, A First Course in the Numerical Analysis of Differential Equations (Cambridge), **2nd Edition** (any format is fine)
 * Homeworks will be assigned and collected on <https://cocalc.com/app> -- no exceptions. You'll have the freedom of working in Python, Julia, or Matlab/Octave. The analytical components will be typeset in either LaTeX or Markdown.
 
 
