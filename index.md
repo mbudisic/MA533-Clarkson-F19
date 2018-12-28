@@ -21,7 +21,7 @@ where $$\rho = 28,\ \sigma = 10, \beta = 8/3$$.
 
 Hm, solving those was not covered in your ODE class, but look at that, Wikipedia even has code available.
 
-```
+```matlab
 sigma = 10;
 beta = 8/3;
 rho = 28;
