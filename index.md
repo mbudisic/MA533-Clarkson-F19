@@ -6,9 +6,33 @@ published: true
 
 **Welcome to MA571!**
 
-Introductory courses on differential equations typically introduce analytical techniques for obtaining solutions to differential equations. However, most differential equations (especially nonlinear) do not fit any of the solution recipes. 
+Say that you have an ODE system to solve in order to generate a cool video as on Wikipedia's website:
+![](https://upload.wikimedia.org/wikipedia/commons/1/13/A_Trajectory_Through_Phase_Space_in_a_Lorenz_Attractor.gif)
 
-In this course, we will concern ourselves with discretization of differential equations (ODEs and PDEs) --- approximation of differential equations that allow us to "shed" their burden of infinitesimal objects (derivatives, in particular).
+OK, so you learn that this is a [Lorenz system](https://en.wikipedia.org/wiki/Lorenz_system) whose equations are
+$$\begin{aligned}
+\dot x &= \sigma(y-x)\\
+\dot y &= x(\rho - z) - y\\
+\dot z &= xy - \beta z
+\end{aligned}
+$$
+where $$\rho = 28,\ \sigma = 10, \beta = 8/3$$. 
+
+Hm, solving those was not covered in your ODE class, but look at that, Wikipedia even has code available.
+
+```
+sigma = 10;
+beta = 8/3;
+rho = 28;
+f = @(t,a) [-sigma*a(1) + sigma*a(2); rho*a(1) - a(2) - a(1)*a(3); -beta*a(3) + a(1)*a(2)];
+[t,a] = ode45(f,[0 100],[1 1 1]);     % Runge-Kutta 4th/5th order ODE solver
+plot3(a(:,1),a(:,2),a(:,3))
+
+```
+
+Let's try it out.
+
+
 
 We will attempt to strike a balance between computational aspects (writing computer programs) and analysis aspects (proving, analyzing, comparing). The main audience for this class are graduate students in mathematics. However, engineers and scientists may also benefit from this content.
 
@@ -19,5 +43,3 @@ We will attempt to strike a balance between computational aspects (writing compu
 * Meetings: **MoWeFr 2pm-2.50pm** in **SC342** (attendance is mandatory)
 * Textbook: _Arieh **Iserles_**, A First Course in the Numerical Analysis of Differential Equations (Cambridge), **2nd Edition** (any format is fine)
 * Homeworks will be assigned and collected on <https://cocalc.com/app> -- no exceptions. You'll have the freedom of working in Python, Julia, or Matlab/Octave. The analytical components will be typeset in either LaTeX or Markdown.
-
-
