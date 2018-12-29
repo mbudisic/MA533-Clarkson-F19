@@ -43,7 +43,7 @@ You will not do well in this class if you've never used a programming language i
 
 ## Course work
 
-##### Participation
+#### Participation
 
 Participation and attendance will be an integral and important part of the grade. I will assign structured readings _ahead_ of each block of material and I will expect you to complete it _before_ we discuss the topic in class.
 
@@ -51,7 +51,7 @@ During class, I will minimize lecturing, and instead I will ask students/pairs o
 
 I will make sure that everyone has a chance to work on the board, and also keep track of your participation.
 
-##### Homeworks
+#### Homeworks
 
 Homework will be completed using the CoCalc system. While the basic use of CoCalc is free, for a one-time fee of \$14, you will get priority access to resources provided by CoCalc. This is roughly equivalent to buying a cup of coffee per homework.**I strongly encourage you to purchase this access for the course.** If you would like to purchase the course access, but absolutely cannot afford it, please come see me and we'll come up with the money.
 
@@ -59,7 +59,7 @@ For homeworks, you'll have a freedom to work in any of the three PyJuMa language
 
 Homeworks will be collected roughly bi-weekly. Before I grade your work, you will also be required to grade the homework of one of your peers, so everyone can get some experience in reading code, and get feedback before the work is graded.
 
-##### Projects
+#### Projects
 
 There will be two projects during the course.
 
@@ -69,7 +69,7 @@ The second project will likewise be associated with reading an article, but you 
 
 In both cases, I will give some suggestions for papers to read, but you'll be welcome to choose your own article. In either situation, you'll first discuss the "project proposal" with me, discussing why and how you'd approach the topic of your choice, before working on the article.
 
-##### Exams
+#### Exams
 
 There will be two exams and a final. I still haven't  decided if they will be take-home (24hr window) or in-class exams. They will primarily focus on definitions, and proof-writing.
 
@@ -99,7 +99,7 @@ In particular, your homeworks, midterms, or finals may be unsupervised, or take-
 
 ## Additional Resources
 
-##### Online programming resources
+#### Online programming resources
 
 * Julia: <https://youtu.be/4igzy3bGVkQ>
 * Python3: <https://www.datacamp.com/courses/intro-to-python-for-data-science>
@@ -107,7 +107,7 @@ In particular, your homeworks, midterms, or finals may be unsupervised, or take-
 * General skills: <https://software-carpentry.org/lessons/>
 * Jupyter/IPython notebooks: <https://www.dataquest.io/blog/jupyter-notebook-tutorial/>
 
-##### Reference books
+#### Reference books
 
 Students nowadays try to find help on programming by furiously googling for clues. This can take you some distance, but having a good (printed) reference book is invaluable.
 
@@ -115,7 +115,7 @@ H.P.Langtangen is a master, anything he wrote is good, but I especially recommen
   * [his general scientific computing book](https://hplgit.github.io/prog4comp/index.html)
   * [his numerical DEs book, focusing more on implementation than theory](http://hplgit.github.io/decay-book/doc/pub/book/html/decay-book.html)
 
-##### Journal articles
+#### Journal articles
 
 * Lamport, L. [_How to Write a 21st Century Proof_](./pdfs/lamport2012.pdf) Journal of Fixed Point Theory and Applications 11, no. 1 (2012): 43–63. doi:10.1007/s11784-012-0071-6
 *  Wilson, G., et al. [_Best Practices for Scientific Computing_](./pdfs/wilson2014.pdf) PLoS Biol 12, no. 1 (2014): e1001745. doi:10.1371/journal.pbio.1001745
