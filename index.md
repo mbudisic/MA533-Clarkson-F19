@@ -44,12 +44,14 @@ plot3(a(:,1),a(:,2),a(:,3))
 
 **What's all of this???? What's Dormand-Prince, what's Runge-Kutta, wait, there's something called adaptive timestep, and I set it using "relative and absolute tolerance"! Tolerance to WHAT.**
 
-_You decide that it must be Matlab's implementation of this technique that is arcane. Let's check other techniques/languages: [Matlab](https://www.mathworks.com/help/matlab/math/choose-an-ode-solver.html), Python [scipy.integrate.ode](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.integrate.ode.html), and Julia [DifferentialEquations.jl](http://docs.juliadiffeq.org/latest/solvers/ode_solve.html#Recommended-Methods-1). No help. You feel the walls closing in._
+_You decide that it must be Matlab's implementation of this technique that is arcane. Let's check other techniques or PyJuMa languages: [Matlab](https://www.mathworks.com/help/matlab/math/choose-an-ode-solver.html), Python [scipy.integrate.ode](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.integrate.ode.html), and Julia [DifferentialEquations.jl](http://docs.juliadiffeq.org/latest/solvers/ode_solve.html#Recommended-Methods-1). No help. You feel the walls closing in._
 
-**Breathe.** After taking MA571 you'll be able to work through all these things. And more. You'll have a sense of how to integrate Partial Differential Equations, perhaps learn something about Stochastic Differential Equations. Sort out why there are so many options to choose from if you decide to use something instead of `ode45`.
+**Breathe.** After taking MA571 you'll be able to work through all these things. And more. You'll have a sense of how to integrate PDEs, perhaps learn something about SDEs. Sort out why there are so many options to choose from if you decide to use something instead of `ode45`.
+
+---
+
+Our goal will be to get enough knowledge to make the best choice when solving a specific DE, and provide foundation for further study. Sometimes, we'll code things up, just to get our hands dirty, and sometimes we'll do proofs. We'll also read journal articles and present on them, to see how these topics behave in research context.
 
 ---
 
-Our goal will be to get enough knowledge to make the best choice when solving a specific differential equation, and provide foundation for further study. Sometimes, we'll code things up, just to get our hands dirty, and sometimes we'll do proofs. We'll also read journal articles and present on them, to see how these topics behave in research context.
-
----
+{% include_relative abbrevs.md %}
