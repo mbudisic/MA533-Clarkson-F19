@@ -8,9 +8,14 @@ h1, .markdown-body h1 {
 }
 
 h2, .markdown-body h2 {
-    font-size: 24px;
+    font-size: 26px;
   padding-bottom: 3px;
   border-bottom: 1.5px solid #009d40;
+}
+
+h3, .markdown-body h3 {
+    font-size: 20px;
+    font-style: italic;
 }
 
 img {

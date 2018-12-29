@@ -23,7 +23,9 @@ where $$\rho = 28,\ \sigma = 10, \beta = 8/3$$.
 
 Hm, solving those was not covered in your ODE class, but look at that, Wikipedia even has code available. [Let's try it out.](https://nbviewer.jupyter.org/github/mbudisic/MA571-Clarkson-S19/blob/gh-pages/materials/wikipedia-lorenz.ipynb)
 
+
 ![./img/wikipedia-lorenz.png]({{site.baseurl}}/img/wikipedia-lorenz.png){:width="50%" style="float: right;margin-right: 7px;margin-top: 7px;"}
+
 ```matlab
 sigma = 10;
 beta = 8/3;
