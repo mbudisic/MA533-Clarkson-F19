@@ -61,17 +61,16 @@ Homeworks will be collected roughly bi-weekly. Before I grade your work, you wil
 
 #### Projects
 
-There will be two projects during the course.
+There will be *two projects* during the course, with intention of introducing you to research-grade topics in numerical DEs, or to topics that we did not manage to cover in class.
 
-The first project will consist in reading an article on numerical methods for DEs and presenting to class on it.
+1. Reading an article on numerical methods for DEs and presenting to class on it.
+2. Reading another article, implementing a technique discussed in it
 
-The second project will likewise be associated with reading an article, but you will need to provide an implementation of the technique in addition to just discussing the result.
-
-In both cases, I will give some suggestions for papers to read, but you'll be welcome to choose your own article. In either situation, you'll first discuss the "project proposal" with me, discussing why and how you'd approach the topic of your choice, before working on the article.
+In both cases, I will give some suggestions for papers to read, but you'll be welcome to choose your own topic/article. In either situation, you'll first discuss the "project proposal" with me, discussing why and how you'd approach the topic of your choice, before working on the article.
 
 #### Exams
 
-There will be two exams and a final. I still haven't  decided if they will be take-home (24hr window) or in-class exams. They will primarily focus on definitions, and proof-writing.
+There will be two exams and a final. I still haven't  decided if they will be take-home (24hr window) or in-class exams. They will primarily focus on definitions, and proof-writing, but they may have a computational component to them as well. We'll discuss the exams further during the class.
 
 ## Assessment
 
