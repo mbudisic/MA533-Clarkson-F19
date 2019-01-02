@@ -17,7 +17,7 @@ description: 'Numerical Solutions to Differential Equations in Spring 2019 as ta
 
 ## Topics and textbook
 
-![./img/iserles.jpg]({{site.baseurl}}/img/iserles.jpg){:width="33%" style="float: right;margin-right: 7px;margin-top: 7px;"}
+[![./img/iserles.jpg]({{site.baseurl}}/img/iserles.jpg){:width="15%" style="float: right;margin-right: 7px;margin-top: 7px;"}](https://www.goodreads.com/book/show/8668555-a-first-course-in-the-numerical-analysis-of-differential-equations)
 
 The course will be split between topics in numerical solutions of ODEs and PDEs:
 
@@ -33,7 +33,7 @@ The course will be split between topics in numerical solutions of ODEs and PDEs:
   * parabolic case (heat and diffusion) $$\partial_t u = \Delta u$$
   * hyperbolic case (advection, wave, nonlinear) $$\partial_t u = \partial_x u $$, $$\partial_{tt} u = \Delta u$$
 
-These topics roughly correspond to chapters 1-4, 6, 8-10, 16-17 in the textbook by **Arieh Iserles, _A First Course in the Numerical Analysis of Differential Equations_ (Cambridge), 2nd Ed.**
+These topics roughly correspond to chapters 1-4, 6, 8-10, 16-17 in the textbook by [**Arieh Iserles, _A First Course in the Numerical Analysis of Differential Equations_ (Cambridge), 2nd Ed.**](https://www.goodreads.com/book/show/8668555-a-first-course-in-the-numerical-analysis-of-differential-equations)
 
 **Regular and frequent access to textbook is mandatory.** Any format of the textbook is fine (ebook, hardcopy, borrowed, owned), but don't count that "sharing a textbook" and occassionally looking at it will be enough. First edition of the textbook is missing the chapter on spectral methods, and it may have different exercises. If you choose to use the first edition, you have to make sure to check with a colleague that your assigments are current.
 
