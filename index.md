@@ -7,10 +7,8 @@ published: true
 
 **Welcome to MA571!** So what's this class about?
 
-Say that you have an ODE system to solve in order to generate a cool video of the [Lorenz system](https://en.wikipedia.org/wiki/Lorenz_system) as on Wikipedia's website.
 ![](https://upload.wikimedia.org/wikipedia/commons/1/13/A_Trajectory_Through_Phase_Space_in_a_Lorenz_Attractor.gif){: style="float: right;margin-right: 7px;margin-top: 7px;" width="20%"}
-
-OK, so you learn that this is an ODE system whose equations are
+Say that you have an ODE system to solve in order to generate a cool video of the [Lorenz system](https://en.wikipedia.org/wiki/Lorenz_system) as on Wikipedia's website. OK, so you learn that this is an ODE system whose equations are
 
 $$\begin{aligned}
 \dot x &= \sigma(y-x)\\
@@ -21,7 +19,7 @@ $$\begin{aligned}
 where $$\rho = 28,\ \sigma = 10, \beta = 8/3$$.
 
 
-Hm, solving those was not covered in your ODE class, but look at that, Wikipedia even has code available. [Let's try it out.](https://nbviewer.jupyter.org/github/mbudisic/MA571-Clarkson-S19/blob/gh-pages/materials/wikipedia-lorenz.ipynb)
+Hm, solving those was not covered in your ODE class, but look at that, Wikipedia even has Matlab/Octave code available. [Let's try it out.](https://nbviewer.jupyter.org/github/mbudisic/MA571-Clarkson-S19/blob/gh-pages/materials/wikipedia-lorenz.ipynb)
 
 
 ![./img/wikipedia-lorenz.png]({{site.baseurl}}/img/wikipedia-lorenz.png){:width="50%" style="float: right;margin-right: 7px;margin-top: 7px;"}
@@ -34,7 +32,8 @@ f = @(t,a) [...
     -sigma*a(1) + sigma*a(2); ...
     rho*a(1) - a(2) - a(1)*a(3); ...
     -beta*a(3) + a(1)*a(2)];
-[t,a] = ode45(f,[0 100],[1 1 1]); % Runge-Kutta 4th/5th order ODE solver
+% Runge-Kutta 4th/5th order ODE solver
+[t,a] = ode45(f,[0 100],[1 1 1]);
 plot3(a(:,1),a(:,2),a(:,3))
 ```
 
