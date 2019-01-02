@@ -17,6 +17,8 @@ description: 'Numerical Solutions to Differential Equations in Spring 2019 as ta
 
 ## Topics and textbook
 
+![./img/iserles.jpg]({{site.baseurl}}/img/iserles.jpg){:width="33%" style="float: right;margin-right: 7px;margin-top: 7px;"}
+
 The course will be split between topics in numerical solutions of ODEs and PDEs:
 
 * 1st order ODE schemes with overview of main desirable properties of numerical schemes
