@@ -7,16 +7,23 @@ description: 'Ordinary Differential Equations in Fall 2019 as taught by Marko Bu
 1. TOC
 {: toc style="font-size:10pt; column-count:3; column-width: 20px; column-gap: 20px;" }
 
-## Learning Objectives
+## Summary of the class
 
-* 
+The purpose of this class is to provide foundation the study of systems of ordinary differential equations for graduate students in applied mathematics. More specifically, we will focus on qualitative analysis of nonlinear ODEs. The emphasis in the class will be on the theoretical arguments and analytic treatment of small examples, rather than on large-scale computational analysis. However, occasionally we will illustrate the concepts by numerical simulation in MATLAB.
+
+By the end of the class, students will be able to:
+* provide definition of basic terms associated with qualitative analysis dynamical systems and ODEs
+* explain the importance of central theorems in ODEs
+* evaluate, compare, and contrast several notions of stability: for linear systems, local and global stability, linear stability, Lyapunov stability, asymptotic stability, structural stability, ...
+* explain what "manifolds" are, how they organize the structure of dynamical systems
+* explain what "bifurcations" are, and explain several elementary bifurcations
+* define chaos, strange attractors, and state several examples where chaos and strange attractors occur
 
 ## Topics and textbook
 
 [![./img/meiss-textbook.jpg]({{site.baseurl}}/img/meiss-textbook.jpg){:width="15%" style="float: right;margin-right: 7px;margin-top: 7px;"}](https://my.siam.org/Store/Product/viewproduct/?ProductId=28569997)
 
-
-These topics roughly correspond to chapters 1-5, with selection of topics from chapters 6-8 in the textbook by [**James Meiss, Differential Dynamical Systems (SIAM) Revised Ed.**](https://my.siam.org/Store/Product/viewproduct/?ProductId=28569997) 
+Detailed list of topics can be found in the [Schedule](./schedule.html) section of this site. These topics roughly correspond to chapters 1-5, with selection of topics from chapters 6-8 in the textbook by [**James Meiss, Differential Dynamical Systems (SIAM) Revised Ed.**](https://my.siam.org/Store/Product/viewproduct/?ProductId=28569997) 
 
 **Regular and frequent access to textbook is mandatory.** Any format of the textbook is fine (ebook, hardcopy, borrowed, owned), but don't count that "sharing a textbook" and occassionally looking at it will be enough. The "Revised edition" is recommended. The book's price can be reduced from $87 to $61 by **joining SIAM for free!**. If you are using the previous edition of the book, check the Preface of the Revised edition to see what the differences are.
 
