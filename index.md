@@ -12,7 +12,7 @@ Differential equations are the most common mathematical framework for modeling t
 
 There are other classes of differential equations: PDEs, SDEs, DAEs, etc. Does this mean ODEs are somehow boring? Not at all! If many variables (quantities of interest) are coupled, or if those couplings are nonlinear, the resulting behavior can be very rich, indeed, it can appear to be noise-like ("chaotic") even though no randomness is involved.
 
-![](https://rogueplanet.tv/wp-content/uploads/2014/09/jurassic-park-jeff-goldblum-tyrannosaur.jpg){: style="float: left;margin-left: 7px;margin-top: 7px;" width="20%"}
+![](https://rogueplanet.tv/wp-content/uploads/2014/09/jurassic-park-jeff-goldblum-tyrannosaur.jpg){: style="float: left;margin: 15px;" width="50%"}
 
 <iframe width="20%" src="https://www.youtube.com/embed/n-mpifTiPV4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
