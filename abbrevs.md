@@ -8,5 +8,7 @@
 *[BVP]: Boundary Value Problem
 *[DE]: Differential Equation
 *[DEs]: Differential Equations
+*[DAE]: Differential-Algebraic Equation
+*[DAEs]: Differential-Algebraic Equations
 *[TBA]: To Be Added
 *[CoCalc]: Online interface to different mathematical languages
