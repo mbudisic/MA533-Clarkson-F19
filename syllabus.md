@@ -41,6 +41,10 @@ Occassionally, homeworks will require coding in MATLAB.
 
 ## Course work
 
+#### Preparation for classes
+
+Students are expected to read the textbook **ahead** of the lecture. The lectures will assume that students have read at least once through the listed chapters. The preparation will be tested by quick quizzes at the beginning of each lecture.
+
 #### Participation and Note-taking
 
 Students are expected to come to class regularly.
