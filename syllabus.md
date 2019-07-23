@@ -34,21 +34,21 @@ Occassionally, homeworks will require coding in MATLAB.
 
 #### Participation and Note-taking
 
-...
+Students are expected to come to class regularly.
+
+In each class, two students will have the responsibility for taking accurate notes. The primary notetaker will do most of the work, while the secondary notetaker will make sure that no gaps or mistakes are present in the notes. After class, the two notetakers will type up the notes in LaTeX, make sure the file compiles, and then send the `.tex` file to the instructor who will keep the "master copy" of class notes for all to share and have access to.
 
 #### Homeworks
 
-...
+There will be 6-8 homeworks during the semester. Students are expected to work together to solve the problems, but then each of the student has to put together their own individual report that they will submit.
 
-...
+It is expected that solutions to the homework will strive for mathematical maturity - the goal is not just to get the solution, but to justify and interpret the steps along the way.
 
-#### Exams
-
-There will be a midterm and a final.
-
-A portion of the exam will be in-class and a portion will be take-home.
+The main purpose of the homework is to expose you to the problems and the level of rigor expected of you in this class.
 
 ## Assessment
+
+There will be a midterm and a final. A portion of each exam will be in-class and a portion will be take-home.
 
 The grade will be based on your score on the midterm and on the final exam. You will get feedback on homeworks, but that feedback will not factor into your final grade. You will have to submit all homeworks, however, to get a passing grade in this course.
 
@@ -74,20 +74,13 @@ In particular, your homeworks, midterms, or finals may be unsupervised, or take-
 
 ## Additional Resources
 
-#### Online programming resources
-
-* Julia: <https://youtu.be/4igzy3bGVkQ>
-* Python3: <https://www.datacamp.com/courses/intro-to-python-for-data-science>
-* Matlab: <https://matlabacademy.mathworks.com/>
-* General skills: <https://software-carpentry.org/lessons/>
-* Jupyter/IPython notebooks: <https://www.dataquest.io/blog/jupyter-notebook-tutorial/>
-
-#### Reference books
+#### Other useful textbooks
 
 ...
 
-#### Journal articles
+#### Non-technical books about the field of dynamical systems
 
-...
+1. James Gleick "Chaos: A New Science"
+2. Diacu, Holmes "Celestial Encounters"
 
 {% include_relative abbrevs.md %}
