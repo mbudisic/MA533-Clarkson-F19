@@ -15,7 +15,7 @@ There are other classes of differential equations: PDEs, SDEs, DAEs, etc. Does t
 ![](https://rogueplanet.tv/wp-content/uploads/2014/09/jurassic-park-jeff-goldblum-tyrannosaur.jpg){: style="float: left;margin: 15px;" width="50%"} Those of you who have seen the original Jurassic Park movie may remember the edgy character of Ian Malcolm (played by Jeff Goldblum) who [describes the "chaos theory" to his paleobotanist colleague](https://youtu.be/n-mpifTiPV4). Well, the name "chaos theory" is really a popular-writing name for the theory of nonlinear dynamics, out of which nonlinear ODEs are typically the primary topic to be encountered by students. In this class, we will encounter such things as the "butterfly effect", the "[Lorenz system](https://en.wikipedia.org/wiki/Lorenz_system)":
 ![](https://upload.wikimedia.org/wikipedia/commons/1/13/A_Trajectory_Through_Phase_Space_in_a_Lorenz_Attractor.gif){: style="float: right;margin-right: 7px;margin-top: 7px;" width="20%"}
 
-The main topic of this class are low-dimensional, nonlinear ODEs, such as equations for the system above:
+The main topic of this class are low-dimensional, nonlinear ODEs, such as equations for the Lorenz system (depicted on the right):
 
 $$\begin{aligned}
 \dot x &= \sigma(y-x)\\
