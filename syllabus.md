@@ -19,6 +19,8 @@ By the end of the class, students will be able to:
 * explain what "bifurcations" are, and explain several elementary bifurcations
 * define chaos, strange attractors, and state several examples where chaos and strange attractors occur
 
+For those students interested in research, [website SIAM DSWeb](https://dsweb.siam.org/) is an excellent resource for keeping up with all things related to dynamical systems.
+
 ## Topics and textbook
 
 [![./img/meiss-textbook.jpg]({{site.baseurl}}/img/meiss-textbook.jpg){:width="15%" style="float: right;margin-right: 7px;margin-top: 7px;"}](https://my.siam.org/Store/Product/viewproduct/?ProductId=28569997)
