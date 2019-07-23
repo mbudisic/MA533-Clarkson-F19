@@ -1,5 +1,5 @@
-title: MA571 Numerical Solutions to Differential Equations (Spring '19)
-baseurl: /MA571-Clarkson-S19
+title: MA533 Ordinary Differential Equations (Fall '19)
+baseurl: /MA533-Clarkson-F19
 markdown: kramdown
 kramdown:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables"]
