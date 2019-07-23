@@ -91,15 +91,15 @@ In particular, your homeworks, midterms, or finals may be unsupervised, or take-
 
 #### Other useful textbooks
 
-1. **Perko, Lawrence. 2009. Differential Equations and Dynamical Systems. New York, NY ; Springer,** Reference for the qualifying exam in ODEs.
-2. Wiggins, Stephen. 2003. Introduction to Applied Nonlinear Dynamical Systems and Chaos. New York : Springer,.
-3. Alligood, Kathleen T., Tim Sauer, and James A Yorke. 2010. Chaos : An Introduction to Dynamical Systems. New York, NY ; Springer,.
-4. Strogatz, Steven H. 2000. Nonlinear Dynamics and Chaos ;Steven H. Strogatz with Applications to Physics, Biology, Chemistry, and Engineering. Cambridge, Mass. : Westview,.
-5. Guckenheimer, John, and Philip Holmes. 1986. Nonlinear Oscillations, Dynamical Systems, and Bifurcations of Vector Fields. New york,.
+1. Perko, Lawrence. 2009. Differential Equations and Dynamical Systems. New York, NY ; Springer, [**Reference for the qualifying exam in ODEs**](https://sites.google.com/a/clarkson.edu/math-graduate/academic-progress/comprehensive-exams).
+2. Wiggins, Stephen. 2003. Introduction to Applied Nonlinear Dynamical Systems and Chaos. New York : Springer,. [**I learned from this book at UC Santa Barbara.**]
+3. Alligood, Kathleen T., Tim Sauer, and James A Yorke. 2010. Chaos : An Introduction to Dynamical Systems. New York, NY ; Springer,. [**Excellent advanced-undergraduate textbook in dynamical systems.**]
+4. Strogatz, Steven H. 2000. Nonlinear Dynamics and Chaos ;Steven H. Strogatz with Applications to Physics, Biology, Chemistry, and Engineering. Cambridge, Mass. : Westview,. [**Undergraduate book with many interesting applications and examples. Classic of the field.**]
+5. Guckenheimer, John, and Philip Holmes. 1986. Nonlinear Oscillations, Dynamical Systems, and Bifurcations of Vector Fields. New york,. [**Long-time favorite book that covers many important topics.**]
 
 #### Non-technical books about the field of dynamical systems
 
-1. Gleick, James. 1988. Chaos: Making a New Science. Penguin. _Book that got me interested in this field._
-2. Diacu, Florin., and Philip Holmes. 1999. Celestial Encounters : The Origins of Chaos and Stability. Princeton, N.J. : Princeton University Press,. _A wonderful read about Poincare's work._
+1. Gleick, James. 1988. Chaos: Making a New Science. Penguin. [**Book that got me interested in this field.**]
+2. Diacu, Florin., and Philip Holmes. 1999. Celestial Encounters : The Origins of Chaos and Stability. Princeton, N.J. : Princeton University Press,. [**A wonderful read about Poincare's work.**]
 
 {% include_relative abbrevs.md %}
