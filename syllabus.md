@@ -1,5 +1,5 @@
 ---
-title: mA533 Syllabus
+title: MA533 Syllabus
 description: 'Ordinary Differential Equations in Fall 2019 as taught by Marko Budišić'
 ---
 {::options toc_levels="1..2" /}
@@ -16,17 +16,19 @@ description: 'Ordinary Differential Equations in Fall 2019 as taught by Marko Bu
 [![./img/meiss-textbook.jpg]({{site.baseurl}}/img/meiss-textbook.jpg){:width="15%" style="float: right;margin-right: 7px;margin-top: 7px;"}](https://my.siam.org/Store/Product/viewproduct/?ProductId=28569997)
 
 
-These topics roughly correspond to chapters 1-4, 6, 8-10, 16-17 in the textbook by [**James Meiss, Differential Dynamical Systems (SIAM) Revised Ed.**](https://my.siam.org/Store/Product/viewproduct/?ProductId=28569997) 
+These topics roughly correspond to chapters 1-5, with selection of topics from chapters 6-8 in the textbook by [**James Meiss, Differential Dynamical Systems (SIAM) Revised Ed.**](https://my.siam.org/Store/Product/viewproduct/?ProductId=28569997) 
 
-**Regular and frequent access to textbook is mandatory.** Any format of the textbook is fine (ebook, hardcopy, borrowed, owned), but don't count that "sharing a textbook" and occassionally looking at it will be enough. The "Revised edition" is required. The book's price can be reduced from $87 to $61 by **joining SIAM for free!**.
+**Regular and frequent access to textbook is mandatory.** Any format of the textbook is fine (ebook, hardcopy, borrowed, owned), but don't count that "sharing a textbook" and occassionally looking at it will be enough. The "Revised edition" is recommended. The book's price can be reduced from $87 to $61 by **joining SIAM for free!**. If you are using the previous edition of the book, check the Preface of the Revised edition to see what the differences are.
+
+### Should I join SIAM? What's SIAM again?
 
 SIAM -- Society for Industrial and Applied Mathematics is the main professional society for most faculty and students at Clarkson's Department of Mathematics. [**Membership for our students is free**, so you should join right away (click here)](https://www.siam.org/Membership/Join-SIAM/Individual-Members/Student) (before the class begins).
 
 ## Prerequisites
 
-Undergraduate level multivariate calculus, differential equations (ODEs and PDEs), ability to code in either PyJuMa. An excellent catch-all reference book is [Kreyszig's Advanced Engineering Mathematics](https://www.goodreads.com/book/show/1426461.Advanced_Engineering_Mathematics) (any fairly-recent edition).
+Undergraduate-level differential equations class (ODEs), strong background in calculus, preferrably with exposure to proof-based calculus ("advanced calculus" or "real analysis"), undergraduate-level linear algebra.
 
-You will not do well in this class if you've never used a programming language independently. If you think you need to brush up on your programming skills, take the time ahead of the class to practice.
+Occassionally, homeworks will require coding in MATLAB.
 
 ## Course work
 
