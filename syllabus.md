@@ -25,9 +25,12 @@ For those students interested in research, [website SIAM DSWeb](https://dsweb.si
 
 [![./img/meiss-textbook.jpg]({{site.baseurl}}/img/meiss-textbook.jpg){:width="15%" style="float: right;margin-right: 7px;margin-top: 7px;"}](https://my.siam.org/Store/Product/viewproduct/?ProductId=28569997)
 
-Detailed list of topics can be found in the [Schedule](./schedule.html) section of this site. These topics roughly correspond to chapters 1-5, with selection of topics from chapters 6-8 in the textbook by [**James Meiss, Differential Dynamical Systems (SIAM) Revised Ed.**](https://my.siam.org/Store/Product/viewproduct/?ProductId=28569997) 
+Detailed list of topics can be found in the [Schedule](./schedule.html) section of this site. These topics roughly correspond to chapters 1-5, with selection of topics from chapters 6-8 in the textbook by [**James Meiss, Differential Dynamical Systems (SIAM) Revised Ed.**]:
 
-**Regular and frequent access to textbook is mandatory.** Any format of the textbook is fine (ebook, hardcopy, borrowed, owned), but don't count that "sharing a textbook" and occassionally looking at it will be enough. The "Revised edition" is recommended. The book's price can be reduced from $87 to $61 by **joining SIAM for free!**. If you are using the previous edition of the book, check the Preface of the Revised edition to see what the differences are.
+- [softcover (recommended)](https://my.siam.org/Store/Product/viewproduct/?ProductId=28569997) 
+- [digital (Google Play)](https://play.google.com/store/books/details/James_D_Meiss_Differential_Dynamical_Systems_Revis?id=gqYJDgAAQBAJ&hl=en_US)
+
+**Regular and frequent access to textbook is mandatory.** Any format of the textbook is fine (ebook, hardcopy, borrowed, owned), but don't count that "sharing a textbook" and occassionally looking at it will be enough. The "Revised edition" is recommended. The hard copy book's price can be reduced from $87 to $61 by **joining SIAM for free!**. If you are using the previous edition of the book, check the Preface of the Revised edition to see what the differences are. Discounts do not apply to ebook version.
 
 ### Should I join SIAM? What's SIAM again?
 
