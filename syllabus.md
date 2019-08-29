@@ -66,9 +66,16 @@ The main purpose of the homework is to expose you to the problems and the level 
 
 ## Assessment
 
-There will be a midterm and a final. A portion of each exam will be in-class and a portion will be take-home.
+There will be a midterm and a final. A portion of each exam will be in-class and a portion will be take-home. In-class portion will test definitions, and basic calculations that can be completed in-class, while the take-home portion may involve proofs, longer calculations, or even MATLAB work.
 
-The grade will be based on your score on the midterm and on the final exam. You will get feedback on homeworks, but that feedback will not factor into your final grade. You will have to submit all homeworks, however, to get a passing grade in this course.
+Exams will have questions labeled according to the mastery level (C-level, B-level, A-level). Answering the appropriate level questions will lead you to the grade.
+
+You will get feedback on homeworks, but homework accuracy will not factor into your final grade. You will have to submit all homeworks, however, to get a passing grade in this course.
+
+| Grade | Homeworks | C-level | B-level | A-level | Explanation |
+|---|---|---|---|---|---|
+||||||||
+
 
 ## Accommodations
 
