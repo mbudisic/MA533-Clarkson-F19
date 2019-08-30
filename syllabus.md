@@ -18,6 +18,7 @@ By the end of the class, students will be able to:
 * explain what "manifolds" are, how they organize the structure of dynamical systems
 * explain what "bifurcations" are, and explain several elementary bifurcations
 * define chaos, strange attractors, and state several examples where chaos and strange attractors occur
+* use LaTeX to write mathematics
 
 For those students interested in research, [website SIAM DSWeb](https://dsweb.siam.org/) is an excellent resource for keeping up with all things related to dynamical systems.
 
@@ -32,9 +33,7 @@ Detailed list of topics can be found in the [Schedule](./schedule.html) section 
 
 **Regular and frequent access to textbook is mandatory.** Any format of the textbook is fine (ebook, hardcopy, borrowed, owned), but don't count that "sharing a textbook" and occassionally looking at it will be enough. The "Revised edition" is recommended. The hard copy book's price can be reduced from $87 to $61 by **joining SIAM for free!**. If you are using the previous edition of the book, check the Preface of the Revised edition to see what the differences are. Discounts do not apply to ebook version.
 
-### Should I join SIAM? What's SIAM again?
-
-SIAM -- Society for Industrial and Applied Mathematics is the main professional society for most faculty and students at Clarkson's Department of Mathematics. [**Membership for our students is free**, so you should join right away (click here)](https://www.siam.org/Membership/Join-SIAM/Individual-Members/Student) (before the class begins).
+**Should I join SIAM? What's SIAM again?** SIAM -- Society for Industrial and Applied Mathematics is the main professional society for most faculty and students at Clarkson's Department of Mathematics. [**Membership for our students is free**, so you should join right away (click here)](https://www.siam.org/Membership/Join-SIAM/Individual-Members/Student) (before the class begins).
 
 ## Prerequisites
 
@@ -52,13 +51,13 @@ Students are expected to read the textbook **ahead** of the lecture. The lecture
 
 Students are expected to come to class regularly.
 
-In each class, two students will have the responsibility for taking accurate notes. The primary notetaker will do most of the work, while the secondary notetaker will make sure that no gaps or mistakes are present in the notes. After class, the two notetakers will type up the notes in LaTeX, make sure the file compiles, and then send the `.tex` file to the instructor who will keep the "master copy" of class notes for all to share and have access to.
+**Typed notes:** In each class, two students will have the responsibility for taking accurate notes. The primary notetaker will do most of the work, while the secondary notetaker will make sure that no gaps or mistakes are present in the notes. After class, the two notetakers will type up the notes in LaTeX, make sure the file compiles, and then send the `.tex` file to the instructor who will keep the "master copy" of class notes for all to share and have access to.
 
 If you've never worked in LaTeX, this is an excellent opportunity to learn. LaTeX is the main tool used to typeset mathematics. You can [install a LaTeX distribution](https://www.latex-project.org/get/), or simply use an online editor in [Overleaf](https://www.overleaf.com) or [CoCalc](https://cocalc.com/) without a hassle of installing anything. For help on using LaTeX, [consult this website](https://en.wikibooks.org/wiki/LaTeX), or ask other grad students in the department.
 
 #### Homeworks
 
-There will be 6-8 homeworks during the semester. Students are expected to work together to solve the problems, but then each of the student has to put together their own individual report that they will submit.
+There will be 9 homeworks during the semester. Students are expected to work together to solve the problems, but then each of the student has to write their own individual report that they will submit.
 
 It is expected that solutions to the homework will strive for mathematical maturity - the goal is not just to get the solution, but to justify and interpret the steps along the way.
 
