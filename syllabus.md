@@ -76,6 +76,9 @@ There will be a midterm and a final. A portion of each exam will be in-class and
 | B |  all | 90%+ M+ | 50%+ M+ | 50%+ P+, 25% M+ | Competency (satisfactory if ODE not a primary field) | 
 | C | all except 1 | 50%+ M+ | 50%+ P+ | 1 or more M+ | Basic familiarity and competency |
 
+Exceptional grades will be awarded rarely, for particularly innovative, clear, well-rounded answers. They are the route to intermediate grades, e.g., A+, B+, etc.
+Intermediate grades will also be assigned for positive/negative trends. (Student who aces the first midterm, does OK on the second, and bombs the final, yet still makes the cut for B, may end up with B-. The reverse is true for the opposite trajectories.)
+
 
 ## Accommodations
 
