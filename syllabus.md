@@ -26,7 +26,7 @@ For those students interested in research, [website SIAM DSWeb](https://dsweb.si
 
 [![./img/meiss-textbook.jpg]({{site.baseurl}}/img/meiss-textbook.jpg){:width="15%" style="float: right;margin-right: 7px;margin-top: 7px;"}](https://my.siam.org/Store/Product/viewproduct/?ProductId=28569997)
 
-Detailed list of topics can be found in the [Schedule](./schedule.html) section of this site. These topics roughly correspond to chapters 1-5, with selection of topics from chapters 6-8 in the textbook by [**James Meiss, Differential Dynamical Systems (SIAM) Revised Ed.**]:
+Detailed list of topics can be found in the [Schedule](./schedule.html) section of this site. These topics roughly correspond to chapters 1-5, with selection of topics from chapters 6-8 in the textbook by **James Meiss, Differential Dynamical Systems (SIAM) Revised Ed.**:
 
 - [softcover (recommended)](https://my.siam.org/Store/Product/viewproduct/?ProductId=28569997) 
 - [digital (Google Play)](https://play.google.com/store/books/details/James_D_Meiss_Differential_Dynamical_Systems_Revis?id=gqYJDgAAQBAJ&hl=en_US)
