@@ -67,14 +67,14 @@ The main purpose of the homework is to expose you to the problems and the level 
 
 There will be a midterm and a final. A portion of each exam will be in-class and a portion will be take-home. In-class portion will test definitions, and basic calculations that can be completed in-class, while the take-home portion may involve proofs, longer calculations, or even MATLAB work.
 
-- Problems will be commented on, and scored as "**E**xceptional", "**C**orrect", "**P**artial", or "**I**ncorrect". That's what the letters in the table below stand for,e.g., "50%+ P+" stands for "more than 50% problems on midterm and final partially correct or better".
+- Problems will be commented on, and scored as "**E**xceptional", "**M**eets expectations", "**P**artial", or "**I**ncorrect". That's what the letters in the table below stand for, e.g., "50%+ P+" stands for "more than 50% problems on midterm and final partially correct or better".
 - For a homework to count as "turned-in", all problems have to be attempted, except possibly the optional ones. Homeworks are scored for completion, not accuracy, although it's expected you will do your best on each.
 
 | Grade  | Homeworks | C problems | B problems | A problems | Grade Explanation |
 | --- | --- | --- | --- | --- | --- | --- |
-| A |  all | 90%+ C+ | 90%+ C+ | 75% P+, 50%+ C+  | Mastery of the material (expected if ODE are a primary field) |
-| B |  all | 90%+ C+ | 50%+ C+ | 50%+ P+, 25% C+ | Competency (satisfactory if ODE not a primary field) | 
-| C | all except 1 | 50%+ C+ | 50%+ P+ | 1 or more C+ | Basic familiarity and competency |
+| A |  all | 90%+ M+ | 90%+ M+ | 75% P+, 50%+ M+  | Mastery of the material (expected if ODE are a primary field) |
+| B |  all | 90%+ M+ | 50%+ M+ | 50%+ P+, 25% M+ | Competency (satisfactory if ODE not a primary field) | 
+| C | all except 1 | 50%+ M+ | 50%+ P+ | 1 or more M+ | Basic familiarity and competency |
 
 
 ## Accommodations
