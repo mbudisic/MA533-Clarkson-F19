@@ -72,8 +72,8 @@ There will be a midterm and a final. A portion of each exam will be in-class and
 
 | Grade  | Homeworks | C problems | B problems | A problems | Grade Explanation |
 | --- | --- | --- | --- | --- | --- | --- |
-| A |  all | 90%+ C+ | 90%+ C+ | 75% P+, 50%+ C+  | Mastery of the material (ODEs a primary field) |
-| B |  all | 90%+ C+ | 50%+ C+ | 50%+ P+, 25% C+ | Competency (ODEs not a primary field) | 
+| A |  all | 90%+ C+ | 90%+ C+ | 75% P+, 50%+ C+  | Mastery of the material (expected if ODE are a primary field) |
+| B |  all | 90%+ C+ | 50%+ C+ | 50%+ P+, 25% C+ | Competency (satisfactory if ODE not a primary field) | 
 | C | all except 1 | 50%+ C+ | 50%+ P+ | 1 or more C+ | Basic familiarity and competency |
 
 
