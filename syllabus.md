@@ -7,6 +7,15 @@ description: 'Ordinary Differential Equations in Fall 2019 as taught by Marko Bu
 1. TOC
 {: toc style="font-size:10pt; column-count:3; column-width: 20px; column-gap: 20px;" }
 
+## Instructor
+
+Marko Budišić
+
+ - Office: SC391
+ - Walk-in hours: TBA
+ - Contact: marko@clarkson.edu (put "MA533" in subject line somewhere) or via Moodle
+ - Website: http://people.clarkson.edu/~mbudisic
+
 ## Summary of the class
 
 The purpose of this class is to provide foundation the study of systems of ordinary differential equations for graduate students in applied mathematics. More specifically, we will focus on qualitative analysis of nonlinear ODEs. The emphasis in the class will be on the theoretical arguments and analytic treatment of small examples, rather than on large-scale computational analysis. However, occasionally we will illustrate the concepts by numerical simulation in MATLAB.
