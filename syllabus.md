@@ -14,7 +14,7 @@ Marko Budišić
  - Office: SC391
  - Walk-in hours: TBA
  - Contact: marko@clarkson.edu (put "MA533" in subject line somewhere) or via Moodle
- - Website: http://people.clarkson.edu/~mbudisic
+ - Website: [http://people.clarkson.edu/~mbudisic](http://people.clarkson.edu/~mbudisic)
  
 ## Summary of the class
 
