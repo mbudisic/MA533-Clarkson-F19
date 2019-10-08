@@ -12,7 +12,7 @@ description: 'Ordinary Differential Equations in Fall 2019 as taught by Marko Bu
 Marko Budišić
 
  - Office: SC391
- - Walk-in hours: TBA
+ - Walk-in office hours: Mo 12.30-2p, We 9-10.30p, Th 1-2.30p
  - Contact: marko@clarkson.edu (put "MA533" in subject line somewhere) or via Moodle
  - Website: [http://people.clarkson.edu/~mbudisic](http://people.clarkson.edu/~mbudisic)
  
